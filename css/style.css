@@ -1,0 +1,42 @@
+.title {
+	font-size: 30px;
+}
+.link {
+	background: rgb(235, 233, 233);
+}
+.red {
+	color: red;
+}
+.yellow {
+	color: yellow;
+}
+.blue {
+	color: blue;
+}
+.green {
+	color: rgb(8, 83, 8);
+}
+.orange {
+	color: orange;
+}
+.violet {
+	color: violet;
+}
+.black {
+	color: black;
+}
+.skyblue {
+	color: skyblue;
+}
+.pink {
+	color: pink;
+}
+.white {
+	color: white;
+}
+.text {
+	font-size: 20px;
+}
+body {
+	background: rgb(107, 119, 119);
+}
